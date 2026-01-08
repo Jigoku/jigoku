@@ -2,7 +2,7 @@
 
 I'm Ricky AKA unixfreak (they/them)
 
-- Working on **[Red Eclipse](https://github.com/redeclipse) maps**
+- Working on **[Red Eclipse](https://www.redeclipse.net) maps**
 - Tinkering with **[Lua](https://lua.org) / [LÖVE2D](https://love2d.org/)** projects
 - Interested in **game engine development**, **level design**, and **editor tools**
 - Fan of **[Slackware](http://www.slackware.com) / [EndeavourOS](https://endeavouros.com) / [ArchLinux](https://archlinux.org) / [FreeBSD](https://www.freebsd.org)**
